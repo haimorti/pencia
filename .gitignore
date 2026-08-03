@@ -7,3 +7,6 @@ transcribe_sherpa.py
 transcript_raw.txt
 sherpa.log
 transcribe.log
+
+transcript.txt
+transcript.timestamped.txt
