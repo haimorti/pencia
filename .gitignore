@@ -1,0 +1,12 @@
+# Transcription working files (models, scripts, logs) — not part of deliverables
+model.tar.bz2
+sherpa-onnx-whisper-large-v3/
+silero_vad.onnx
+transcribe.py
+transcribe_sherpa.py
+transcript_raw.txt
+sherpa.log
+transcribe.log
+
+transcript.txt
+transcript.timestamped.txt
